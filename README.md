@@ -156,6 +156,9 @@ If you use the code, please cite our paper:
 }
 ```
 
+## LICENSE
+The code and models in this repository are licensed under the GNU General Public License Version 3. For commercial use of this code and models, separate commercial licensing is also available. Please contact: caoyx@nus.edu.sg
+
 ## Acknowledgement
 
 This research is supported by the National Research Foundation, Singapore under its International Research Centres in Singapore Funding Initiative. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not reflect the views of National Research Foundation, Singapore.
